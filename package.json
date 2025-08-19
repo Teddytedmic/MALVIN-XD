@@ -1,6 +1,6 @@
 {
   "name": "MALVIN XD",
-  "version": "1.0.2",
+  "version": "1.5.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,7 @@
     "restart": "pm2 restart MALVIN-XD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:EdderBot02/bail",  
+    "@whiskeysockets/baileys": "github:XdKing2/bail",  
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
